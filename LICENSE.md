@@ -1,4 +1,4 @@
-# 
+# AI-powered dex arbitrage bot Plugin | front-running-detection + token-swapping offers the most advanced dex arbitrage bot, with front-running-detection and token-swapping. Ideal
 
 
 
